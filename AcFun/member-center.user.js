@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         会员中心投稿修正
 // @namespace    https://github.com/Soys/user.js/tree/master/AcFun
-// @version      0.2
+// @version      0.3
 // @description  修正会员中心投稿相关按钮
 // @author       Soys
 // @match        https://www.acfun.cn/member/
