@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         会员中心投稿修正
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Soys/user.js/tree/master/AcFun
 // @version      0.1
 // @description  修正会员中心投稿相关按钮
 // @author       You
 // @match        https://www.acfun.cn/member/
+// @downloadURL  https://github.com/Soys/user.js/raw/master/AcFun/member-center.user.js
 // @grant        none
 // ==/UserScript==
 
