@@ -24,5 +24,5 @@
     aclink[0].href = '#area=post-history';
     aclink[0].className = 'tab fixed';
     acpart[5].innerHTML = acpart[5].innerHTML + '<div class="mainer"><a href="#area=upload-video" class="tab"><i class="icon"></i>视频投稿</a><a href="#area=post-article" class="tab"><i class="icon"></i>文章投稿</a><a href="#area=post-history" class="tab"><i class="icon"></i>过往投稿</a><a href="https://member.acfun.cn/" class="tab"><i class="icon"></i>新投稿中心</a><a href="#area=create-album" class="tab"><i class="icon"></i>创建合辑</a><a href="#area=album-manage" class="tab"><i class="icon"></i>合辑管理</a></div>';
-    acpart[7].className = acpart[7].className + 'hidden';
+    acpart[7].className = acpart[7].className + ' hidden';
 })();
