@@ -7,6 +7,7 @@
 // @match        https://www.acfun.cn/member/
 // @match        http://www.acfun.cn/member/
 // @downloadURL  https://github.com/Soys/user.js/raw/master/AcFun/member-center.user.js
+// @updateURL  https://github.com/Soys/user.js/raw/master/AcFun/member-center.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
