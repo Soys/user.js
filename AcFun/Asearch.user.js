@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Asearch
-// @namespace    http://127.0.0.1/
-// @version      0.11
+// @namespace    http://soys.github.io/
+// @version      0.12
 // @description  AcFun搜索辅助小工具
 // @author       饃鶻荔௰
 // @match        https://www.acfun.cn/search?*
