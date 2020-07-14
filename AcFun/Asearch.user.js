@@ -23,7 +23,6 @@
 }
     var barS = document.getElementById('search-box--standalone');
     var Sform = barS.getElementsByClassName('form')[0];
-    /*var Stext = Sform.getElementsByTagName('input')[0].value;*/
     var Stext = getQueryVariable("keyword");
     var SearchPlus = document.createElement("div");
         SearchPlus.style = 'text-align:center;';
