@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Asearch
-// @namespace    http://soys.github.io/
+// @namespace    https://soys.github.io/
 // @version      0.12
 // @description  AcFun搜索辅助小工具
 // @author       饃鶻荔௰
